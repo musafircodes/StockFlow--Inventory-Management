@@ -1,2 +1,2 @@
 # StockFlow--Inventory-Management
-StockFlow Inventory Management System using React Springboot
+StockFlow Inventory Management System using React and Springboot
